@@ -1,5 +1,5 @@
 # hello-world
-I need to highlight these ==This is a tutorial of how to get started with GitHub.==
+==This is a tutorial of how to get started with GitHub==.
 **I am seasoned Production Manager that has chosen to change his career path and start diving into Cyber Security.** 
 *Life has thrown me ups and downs, I have fought hard, and now I belive I am on the right Journey.*
 1. I love Tacos 
