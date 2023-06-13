@@ -5,7 +5,7 @@ This is a tutorial of how to get started with GitHub.
 1. I love Tacos 
 2. Coffee
 3. Pizza
-4. H<sub>2</sub>~TeaO
+4. H<sub>2</sub>TeaO
 5. Family
 6. Game of Thrones
 7. Diable Franchise
